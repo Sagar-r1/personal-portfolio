@@ -45,7 +45,7 @@ function headerShadow() {
 /* ----- TYPING EFFECT ----- */
 if (typeof Typed !== "undefined") {
   var typingEffect = new Typed(".typedText", {
-    strings: ["Developer", "data analyst"],
+    strings: ["Full Stack Developer"],
     loop: true,
     typeSpeed: 100,
     backSpeed: 80,
